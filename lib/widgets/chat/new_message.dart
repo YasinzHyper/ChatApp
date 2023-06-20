@@ -43,7 +43,7 @@ class _NewMessageState extends State<NewMessage> {
       headers: {
         "Content-Type": "application/json",
         "Authorization":
-            "key=AAAA1sE23Ok:APA91bHSPcjIMt1_tpoxed7aN7ZgUxCw3NKURjcLFCevoY5y_4FSlPSk_EfDUTt_K5XWlm0iFIRsbVAD6-tbR9oV6YnlwqJjU0CBYYFRVpASv4OHADAaBy_ESnWx23VER4EhV1RtKB6t"
+            "key=<Your-API-Key>"
       },
       body: json.encode(
         {
